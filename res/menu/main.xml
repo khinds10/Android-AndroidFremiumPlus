@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity" >
+
+    <item
+        android:id="@+id/menu_bitstreet"
+        android:orderInCategory="100"
+        android:title="@string/menu_bitstreet"
+        app:showAsAction="collapseActionView"/>
+    <item
+        android:id="@+id/menu_fullversion"
+        android:orderInCategory="100"
+        android:title="@string/menu_fullversion"
+        app:showAsAction="withText|ifRoom"/>
+    <item
+        android:id="@+id/menu_suggested"
+        android:orderInCategory="100"
+        android:title="@string/suggested_app_menu"
+        app:showAsAction="collapseActionView"/>
+
+</menu>
