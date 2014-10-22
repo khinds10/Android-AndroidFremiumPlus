@@ -1,4 +1,4 @@
-package com.kevinhinds.freemiumplus;
+package com.kevinhinds.fremiumplus;
 
 import android.support.v7.app.ActionBarActivity;
 import android.app.Activity;

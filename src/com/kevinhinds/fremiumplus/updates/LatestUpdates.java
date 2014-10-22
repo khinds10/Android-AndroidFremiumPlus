@@ -1,9 +1,9 @@
 /**
  * Package to show the latest updates for a newly installed app
  */
-package com.kevinhinds.freemiumplus.updates;
+package com.kevinhinds.fremiumplus.updates;
 
-import com.kevinhinds.freemiumplus.R;
+import com.kevinhinds.fremiumplus.R;
 
 import android.app.AlertDialog;
 import android.content.Context;

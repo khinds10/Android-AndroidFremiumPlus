@@ -2,13 +2,13 @@
 <resources>
 
     <!-- Application Name -->
-    <string name="app_name">Freemium Plus</string>
+    <string name="app_name">Fremium Plus</string>
 
-    <!-- Freemium Config -->
+    <!-- Fremium Config -->
     <string name="is_full_version">false</string>
     <string name="app_full_version_package">com.kevinhinds.timer</string>
 
-    <!-- remember when not deploying to Google, you need the special pollfish JAR! -->
+    <!-- (Not deploying to Google? you need the special pollfish JAR) -->
     <string name="marketplace_name">Google</string> <!-- Amazon|Nook|Google -->
 
     <!-- PollFish -->
@@ -27,7 +27,7 @@
     <!-- Example: Latest Updates\n\nItem #1\nItem #2\n\nThanks for downloading! -->
     <string name="latest_update_notes">Thanks for downloading!</string>
 
-    <!-- Freemium Standard Config -->
+    <!-- Fremium Standard Config -->
     <string name="app_publisher_name">Kevin Hinds</string>
     <string name="app_publisher_package">com.kevinhinds</string>
     <string name="menu_bitstreet">Bitstreet Apps</string>

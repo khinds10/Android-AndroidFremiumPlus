@@ -1,9 +1,9 @@
-package com.kevinhinds.freemiumplus;
+package com.kevinhinds.fremiumplus;
 
 import com.pollfish.main.PollFish;
 import com.pollfish.constants.Position;
-import com.kevinhinds.freemiumplus.marketplace.MarketPlace;
-import com.kevinhinds.freemiumplus.updates.LatestUpdates;
+import com.kevinhinds.fremiumplus.marketplace.MarketPlace;
+import com.kevinhinds.fremiumplus.updates.LatestUpdates;
 import com.google.android.gms.ads.*;
 
 import android.app.Activity;
@@ -48,6 +48,7 @@ public class MainActivity extends ActionBarActivity implements NavigationDrawerF
 
 		/** set up the drawer */
 		mNavigationDrawerFragment.setUp(R.id.navigation_drawer, (DrawerLayout) findViewById(R.id.drawer_layout));
+
 
 		/** show the latest update notes if the application was just installed */
 		LatestUpdates.showFirstInstalledNotes(this);
