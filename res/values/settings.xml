@@ -2,9 +2,9 @@
 <resources>
 
     <!-- Application Name -->
-    <string name="app_name">Fremium Plus</string>
+    <string name="app_name">Freemium Plus</string>
 
-    <!-- Fremium Config -->
+    <!-- Freemium Config -->
     <string name="is_full_version">false</string>
     <string name="app_full_version_package">com.kevinhinds.timer</string>
 
@@ -27,7 +27,7 @@
     <!-- Example: Latest Updates\n\nItem #1\nItem #2\n\nThanks for downloading! -->
     <string name="latest_update_notes">Thanks for downloading!</string>
 
-    <!-- Fremium Standard Config -->
+    <!-- Freemium Standard Config -->
     <string name="app_publisher_name">Kevin Hinds</string>
     <string name="app_publisher_package">com.kevinhinds</string>
     <string name="menu_bitstreet">Bitstreet Apps</string>
